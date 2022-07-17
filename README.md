@@ -12,13 +12,7 @@ I am currently a React Native Developer.
 I want to become a fullStack Mobile app developer.
 
 ## 🛠 Tech Stack
-- JavaScript
-- React Native 
-- Flutter 
-- React 
-- BootStrap
-- HTML
-- CSS
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="flutter" width="60" height="60"/> </a>
 
 ## 🔗 Contact Me
 
