@@ -6,7 +6,7 @@
  ## 🤖 I am Hamid Hussainy
  
 
-  <img src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/62f213271ca43fb8798742c1_ezgif.com-gif-maker%20(2).gif" alt="reactjs" width="40" height="40" />
+  <img src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/62f213271ca43fb8798742c1_ezgif.com-gif-maker%20(2).gif" alt="reactjs" width="120" height="120" />
 
 ## 🚀 About Me
 I'm a Mobile App Developer, creating and developing cross paltform mobile applications using React Native and Fluttter frameworks.
