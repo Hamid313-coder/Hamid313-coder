@@ -6,7 +6,7 @@
  ## 🤖 I am Hamid Hussainy
  
 <p align="center">
-  <img align="center" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/62f213271ca43fb8798742c1_ezgif.com-gif-maker%20(2).gif" alt="reactjs" style="margin: 20px auto"  />
+  <img style="border-radius: 15px;" align="center" src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/62f213271ca43fb8798742c1_ezgif.com-gif-maker%20(2).gif" alt="reactjs" style="margin: 20px auto"  />
 </p>
 
 ## 🚀 About Me
