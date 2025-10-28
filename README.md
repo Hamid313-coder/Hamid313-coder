@@ -10,9 +10,9 @@
 </p>
 
 ## 🚀 About Me
-I'm an enthusiastic Flutter and  Mobile App Developer, creating and developing cross paltform mobile applications using Fluttter and React Native frameworks.
-I am currently a Flutter Developer.
-I want to become a fullStack Mobile app developer.
+<p>I'm an enthusiastic Flutter and  Mobile App Developer, creating and developing multi platform apps using Fluttter💙.</p>
+<p>I am currently a Flutter Developer and learning Go lang and Express.</p>
+<p>I want to become a Software Engineer.</p>
 
 ## 🛠 Tech Stack
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="flutter" width="60" height="60"/> </a>  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactnative.dev/" target="_blank">
